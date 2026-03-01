@@ -3,8 +3,7 @@
 A command-line Wordle Solver implemented in C++ that helps users
 identify possible Wordle solutions using logical filtering techniques.
 
-This project was developed as part of a Coursera course and extended
-to demonstrate algorithm design and problem-solving skills.
+This project was inspired by coursework and further extended independently to demonstrate algorithm design and problem-solving skills.
 
 ## Features
 - Dictionary-based word filtering
