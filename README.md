@@ -28,11 +28,12 @@ The solver reduces possible words by applying:
 
 ```bash
 g++ WordleSolver.cpp -o solver
-.\solver
+```
 
 ## Run
 
 After compilation, run the program using:
 
 ```bash
-solver
+./solver
+```
